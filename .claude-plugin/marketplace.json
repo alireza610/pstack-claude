@@ -1,0 +1,16 @@
+{
+  "name": "pstack-claude",
+  "owner": {
+    "name": "Ali"
+  },
+  "plugins": [
+    {
+      "name": "pstack",
+      "source": "./plugins/pstack",
+      "description": "Claude Code port of pstack (Cursor): poteto-mode playbooks, review panels, principle skills."
+    }
+  ],
+  "metadata": {
+    "description": "Claude Code port of the pstack plugin from cursor/plugins."
+  }
+}
